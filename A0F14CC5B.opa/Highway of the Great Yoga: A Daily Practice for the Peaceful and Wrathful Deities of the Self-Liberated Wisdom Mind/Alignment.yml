@@ -1,0 +1,25 @@
+segment_sources:
+  P54414742:
+    type: origin_type
+    relation: translation
+    language: en
+  PD644A1CA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  37d0b71f00df4285a63520e19796720b:
+    P54414742: 7398525a5f40422b87bd0faf09b358c6
+    PD644A1CA: 11f5c34ac45a4a67bf3ba0d97f3204a4
+  ac50026606ce466881366c34973d62b8:
+    P54414742: c304a020af424464a20aa055d07a4b0e
+    PD644A1CA: 33458068b46d4d05a8447cb1220861a6
+  2042bece280147ceadb61381d3f2df10:
+    P54414742: 44780eb3468545c2ac3b41d93018534d
+    PD644A1CA: 57c4dc0188004309be7575eed276eec7
+  9f953ec112a14fbaa0dc74185e5b8b48:
+    P54414742: 2b1d8bc5994f40a489452db651cfc9a0
+    PD644A1CA: 4a806141572c4271b7d4fc04fa7460ea
+  995dc1245b054c1591e3e7b8888b25d6:
+    P54414742: 522263ab199f451ba794d6a253be4e04
+    PD644A1CA: ed7dea7808d345aa9f4dacb20dd2431b
